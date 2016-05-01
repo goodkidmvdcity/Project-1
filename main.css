@@ -1,0 +1,92 @@
+﻿body {
+}
+
+hr{
+    border: none;
+    height: 3px;
+    color: darkgreen; /* Old IE */
+    background-color: darkgreen; /* Modern Browsers */  
+}
+
+p{
+    font-family: Arial;
+    font-size: 10pt;
+    color:darkblue;
+    width: 700px;
+    margin-left: 25px;
+    text-align: justify;
+}
+
+time
+{
+    margin-left: 25px;
+    color: green;
+}
+
+table
+{
+    width: 700px;
+    border: 3px solid black;
+
+}
+
+td, th
+{
+    border: 1px solid black;
+    width: 100px;
+}
+
+figure
+{
+    max-width: 700px;
+    width: 100%;
+    margin-left: 25px;
+}
+
+figcaption
+{
+    font-style: italic;
+}
+
+tbody
+{
+    text-align: right;
+}
+
+thead
+{  
+    background-color: lightblue;
+}
+
+.year
+{
+    text-align: left;
+}
+.pos
+{
+    color: darkblue;
+    padding-right: 3px;
+}
+
+.neg
+{
+    color: maroon;
+    padding-right: 3px;
+}
+
+.other
+{
+    padding-right: 3px;
+}
+
+h1
+{
+    margin-left: 5px;
+    border: 2px solid lightblue;
+    border-radius: 25px;
+    width: 700px;
+}
+
+
+
+
